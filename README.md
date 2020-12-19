@@ -12,5 +12,7 @@ It is also customizable:
 chmod +x tree.py
 ./tree.py
 ```
-I ussually run it in crontab, with a stay-on-top resized window moved to the edge of the screen, to decorate my desktop
+I usually run it on crontab, with a stay-on-top resized window moved to the edge of the screen, to decorate my desktop
+
+
 ![](tree-2020.gif)
